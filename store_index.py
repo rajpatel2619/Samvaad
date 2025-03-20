@@ -20,7 +20,7 @@ text_chunks = text_split(extracted_data)
 embeddings = download_hugging_face_embeddings()
 
 # Pinecone index setup
-index_name = "medicalbot"
+index_name = "samvaad"
 
 # Create the index (if it doesn't exist)
 if index_name not in pc.list_indexes().names():  # Check if the index exists

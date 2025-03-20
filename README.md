@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-Generative-AI
+# Samvaad - AI chatbot
 
 
 # How to run?
